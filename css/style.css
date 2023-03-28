@@ -58,8 +58,8 @@ a {
 
 #overview,
 #register {
-  padding-top: 14rem;
-  padding-bottom: 14rem;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
 }
 
 #detail, #video,
@@ -286,7 +286,7 @@ footer {
    Overview  section              
 -----------------------------------------*/
 #overview {
-  background-color: white;
+  background-color: aliceblue;
 }
 #profile_img {
   position: relative;
